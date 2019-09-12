@@ -1,0 +1,19 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irislian199092/logger.git"
+  },
+  "author": "lulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irislian199092/logger/issues"
+  },
+  "homepage": "https://github.com/irislian199092/logger#readme"
+}
